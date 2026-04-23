@@ -1,0 +1,14 @@
+C:\Users\micha\Documents\Development\Practice\HTTPScanner\obj\Debug\net8.0\HTTPScanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Documents\Development\Practice\HTTPScanner\obj\Debug\net8.0\HTTPScanner.AssemblyInfoInputs.cache
+C:\Users\micha\Documents\Development\Practice\HTTPScanner\obj\Debug\net8.0\HTTPScanner.AssemblyInfo.cs
+C:\Users\micha\Documents\Development\Practice\HTTPScanner\obj\Debug\net8.0\HTTPScanner.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\Development\Practice\HTTPScanner\bin\Debug\net8.0\HTTPScanner.exe
+C:\Users\micha\Documents\Development\Practice\HTTPScanner\bin\Debug\net8.0\HTTPScanner.deps.json
+C:\Users\micha\Documents\Development\Practice\HTTPScanner\bin\Debug\net8.0\HTTPScanner.runtimeconfig.json
+C:\Users\micha\Documents\Development\Practice\HTTPScanner\bin\Debug\net8.0\HTTPScanner.dll
+C:\Users\micha\Documents\Development\Practice\HTTPScanner\bin\Debug\net8.0\HTTPScanner.pdb
+C:\Users\micha\Documents\Development\Practice\HTTPScanner\obj\Debug\net8.0\HTTPScanner.dll
+C:\Users\micha\Documents\Development\Practice\HTTPScanner\obj\Debug\net8.0\refint\HTTPScanner.dll
+C:\Users\micha\Documents\Development\Practice\HTTPScanner\obj\Debug\net8.0\HTTPScanner.pdb
+C:\Users\micha\Documents\Development\Practice\HTTPScanner\obj\Debug\net8.0\HTTPScanner.genruntimeconfig.cache
+C:\Users\micha\Documents\Development\Practice\HTTPScanner\obj\Debug\net8.0\ref\HTTPScanner.dll

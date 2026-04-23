@@ -1,0 +1,14 @@
+C:\Users\micha\Documents\Development\Practice\TreePractice\obj\Debug\net8.0\TreePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Documents\Development\Practice\TreePractice\obj\Debug\net8.0\TreePractice.AssemblyInfoInputs.cache
+C:\Users\micha\Documents\Development\Practice\TreePractice\obj\Debug\net8.0\TreePractice.AssemblyInfo.cs
+C:\Users\micha\Documents\Development\Practice\TreePractice\obj\Debug\net8.0\TreePractice.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\Development\Practice\TreePractice\bin\Debug\net8.0\TreePractice.exe
+C:\Users\micha\Documents\Development\Practice\TreePractice\bin\Debug\net8.0\TreePractice.deps.json
+C:\Users\micha\Documents\Development\Practice\TreePractice\bin\Debug\net8.0\TreePractice.runtimeconfig.json
+C:\Users\micha\Documents\Development\Practice\TreePractice\bin\Debug\net8.0\TreePractice.dll
+C:\Users\micha\Documents\Development\Practice\TreePractice\bin\Debug\net8.0\TreePractice.pdb
+C:\Users\micha\Documents\Development\Practice\TreePractice\obj\Debug\net8.0\TreePractice.dll
+C:\Users\micha\Documents\Development\Practice\TreePractice\obj\Debug\net8.0\refint\TreePractice.dll
+C:\Users\micha\Documents\Development\Practice\TreePractice\obj\Debug\net8.0\TreePractice.pdb
+C:\Users\micha\Documents\Development\Practice\TreePractice\obj\Debug\net8.0\TreePractice.genruntimeconfig.cache
+C:\Users\micha\Documents\Development\Practice\TreePractice\obj\Debug\net8.0\ref\TreePractice.dll
